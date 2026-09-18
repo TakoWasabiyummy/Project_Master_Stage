@@ -1,2 +1,2 @@
-# Project_Master_Stage
-The collection of all what TakoWasabiyummy has done in his MASTER carrer
+# Breast_Cancer_Prediction
+The python date that created for HUAWEI compitition
